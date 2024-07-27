@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 class Program
 {
-    static string jsonFilePath = @"\\brudehsm\austausch\dhaenic\test.json";
+    static string jsonFilePath = @"yourjsonpath";
     static string userName;
     static string passwordHash;
     static List<ChatMessage> messages = new List<ChatMessage>();
