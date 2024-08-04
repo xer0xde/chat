@@ -65,5 +65,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For questions or issues, please contact [your contact address].
+For questions or issues, please contact xeroxde on Discord.
 
